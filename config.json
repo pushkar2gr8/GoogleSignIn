@@ -1,0 +1,10 @@
+{
+  "web": {
+    "client_id": "75466479484-4u895q64o3qcm496asrnpjqt95n9iafv.apps.googleusercontent.com",
+    "project_id": "crictalent-1546332089639",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://www.googleapis.com/oauth2/v3/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_secret": "3FL3X62ZsZmskMXU55eX4SCU"
+  }
+}
